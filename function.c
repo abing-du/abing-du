@@ -3,6 +3,6 @@
 
 int mian()
 {
-	printf("hello");
+	prinf("test commit");
 	return 0;
 }
